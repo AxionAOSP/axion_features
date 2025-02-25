@@ -29,8 +29,12 @@
 - **Secure Lockscreen Options**
   - Hide Quick Settings when locked
   - Hide Power Menu on lockscreen
+- **Hide ADB and Developer Options**
+- **Ignore Secure Window**
+- **Application Downgrade Support**
 
 ## 🏆 User Experience Enhancements  
+- **Wifi/Bluetooth Timeout**
 - **Improved System Dialogs**
   - Improved Media Output Dialog
   - Added Hotspot Toggle to Internet Dialog
@@ -43,6 +47,13 @@
   - Double power button press shortcuts
   - Extended back gesture actions
 - **Gaming Mode** – GameSpace dashboard
+- **Columbus Service** aka **Quick Tap**
+- **Per-app Volume**
+- **ViperFx Support**
+- **Volume Steps**
+- **Increasing Ring feature**
+- **Multi-sim phone ringtone**
+- **Custom Vibration patterns**
 
 ## 🛠️ Miscellaneous  
 - **Debloated** – Clean and minimal experience
