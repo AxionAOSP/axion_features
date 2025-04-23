@@ -20,7 +20,7 @@
 - **Always-On Display on Charge** – Keeps AOD active while charging
 - **Ambient Music Ticker** – Pulse device when music track changes
 - **Customization Options**
-  - Icon shapes, fonts, and icon packs
+  - Lockscreen Clock font, Icon shapes, fonts, and icon packs
 
 ## 🔒 Privacy & Security  
 - **Custom DNS Providers** – More control over your network security
@@ -54,6 +54,9 @@
 - **Increasing Ring feature**
 - **Multi-sim phone ringtone**
 - **Custom Vibration patterns**
+- **HDR Display switch**
+- **Back gesture height settings**
+- **Per-app sensor blocking**
 
 ## 🛠️ Miscellaneous  
 - **Debloated** – Clean and minimal experience
