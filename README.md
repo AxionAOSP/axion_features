@@ -1,62 +1,47 @@
 # AxionAOSP Features List  
 
-## 🚀 Performance & Stability  
-- **Lightweight & Optimized** – Ensures smooth performance
-- **Enhanced Memory Management** – Better resource utilization
+#### ✨ New Features
 
-## 🎨 Customization  
-- **AxionUI** – Custom AOSP skin for a unique experience
-- **Advanced Theming** – Granular Monet-based dynamic theming
-- **Status Bar Customization**
-  - Clock position & styles
-  - Network indicators
-  - Battery styles
-  - WiFi standard display
-- **Screen Off Animations** – Customizable effects
-- **Reality Display Engine** – Enhanced visual experience
-- **Edge Lighting** – Pulse notifications with edge glow
-- **Lockscreen Visualizer (Pulse)** – Music visualizer on the lockscreen
-- **Back Gesture Haptics** – Toggle vibration feedback
-- **Always-On Display on Charge** – Keeps AOD active while charging
-- **Ambient Music Ticker** – Pulse device when music track changes
-- **Customization Options**
-  - Lockscreen Clock font, Icon shapes, fonts, and icon packs
+##### NothingOS-Features (Reverse Engineered from NOS 3.0)
+- Disable QS swipe on lockscreen
+- Improved three-finger swipe gesture
+- Screenshot cord intercept feature
+- Network Indicator
+- App Locker
+- Always-On Display (NothingOS style)
+- NothingOS-style lockscreen clocks
 
-## 🔒 Privacy & Security  
-- **Custom DNS Providers** – More control over your network security
-- **Face Unlock** – Quick and secure authentication
-- **Secure App Lock** – Built-in app lock feature
-- **Secure Lockscreen Options**
-  - Hide Quick Settings when locked
-  - Hide Power Menu on lockscreen
-- **Hide ADB and Developer Options**
-- **Ignore Secure Window**
-- **Application Downgrade Support**
+##### AxionOS Exclusive Features
 
-## 🏆 User Experience Enhancements  
-- **Wifi/Bluetooth Timeout**
-- **Improved System Dialogs**
-  - Improved Media Output Dialog
-  - Added Hotspot Toggle to Internet Dialog
-- **Hotspot Control** – More granular hotspot control
-- **Multi-Window Support** – Improved Freeform multitasking
-- **Smart Gestures**
-  - Shake to trigger actions
-  - Pocket mistouch prevention
-  - Three-finger swipe gestures
-  - Double power button press shortcuts
-  - Extended back gesture actions
-- **Gaming Mode** – GameSpace dashboard
-- **Columbus Service** aka **Quick Tap**
-- **Per-app Volume**
-- **ViperFx Support**
-- **Volume Steps**
-- **Increasing Ring feature**
-- **Multi-sim phone ringtone**
-- **Custom Vibration patterns**
-- **HDR Display switch**
-- **Back gesture height settings**
-- **Per-app sensor blocking**
+###### UI & UX
+- **AxionOS 2.0 UI Updates**
+  - New Quick Settings UI
+  - Reworked Lockscreen Widgets Animations
+- **QuickLook — At-a-Glance on Lockscreen**
+  - Weather
+  - Calendar Events
+  - Now Playing *(Pixels only)*
+- **Improved AOSP Freeform**
+  - Floating icons
+  - Fullscreen support on immersive display
+  - Improved animations
+
+###### Feature Rewrites
+- **Edge Light** — Minimal implementation following Motorola specs
+- **Lockscreen Media Art** — Less resource intensive compared to A15 version
+- **WiFi Standard** — Leak prevention and memory optimizations
+- **GameSpace** — Full service rewrite and modern and flexible dashboard UI
+- **Pulse Visualizer** — Minimal, smoother FPS and better AOD support
+- **Doze / Pulse Gestures** — Reworked wake/pulse behavior
+- **Sidebar** - Full service rewrite from scratch
+
+###### Carry-over Features
+- Compact Heads-Up notifications
+- HDR display boost toggle
+- Screenshot sound toggle
+- Power-Off verification
+- Face Unlock
+
 
 ## 🛠️ Miscellaneous  
 - **Debloated** – Clean and minimal experience
